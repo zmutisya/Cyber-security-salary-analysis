@@ -34,3 +34,5 @@ Exploratory Data Analysis was conducted to uncover the dataset patterns, relatio
 ## Data Analysis and Visualization
 #### **1.What is the average salary for different cybersecurity roles?**
 Analyzing salary data to determine the average salaries for different cybersecurity roles. This information provides businesses with a valuable benchmark for their compensation packages. It also helps businesses stay competitive in attracting and retaining top talents in the industry.
+![average](https://github.com/user-attachments/assets/2d807677-0d2c-485e-8d44-5ff4331f1432)
+
