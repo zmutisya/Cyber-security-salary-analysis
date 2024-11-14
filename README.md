@@ -73,4 +73,11 @@ These were the findings
 * The medium-sized companies in the cybersecurity industry offer the highest average salaries, reaching approximately $120,000 USD. This could be attributed to factors like a balance between resources and flexibility, potentially higher growth opportunities and a focus on emerging technologies in these companies.
 * The large companies in the cybersecurity industry offer slightly lower average salaries compared to medium-sized companies which is around $115,000 USD. While they might have more resources and established structures, the potential for individual growth and contribution might be comparatively lower in larger organizations.
 * The small companies in the cybersecurity industry offer the lowest average salaries at around $80,000 USD. This could be due to limited resources, smaller budgets, and potentially fewer opportunities for career advancement in smaller organizations.
-
+#### **5.Salary trends over time**
+By analyzing salary data over time will help identify trends and patterns in compensation within the cybersecurity industry. This analysis can help businesses anticipate changes in salary expectations and adjust their recruitment and retention strategies accordingly.
+![trends](https://github.com/user-attachments/assets/fb3762e0-e7ca-4f79-97c6-7124b81e030d)
+These are the findings
+![trends overtime](https://github.com/user-attachments/assets/5662d7bc-40e5-4525-a98e-1b37e30add34)
+* There is a clear upward trend in average salaries in the cybersecurity industry from 2020 to 2022. This indicates that salaries have been steadily increasing over this period.
+* The most notable increase in salary occurred between 2021 and 2022. This suggests that there might have been significant factors contributing to this jump, such as increased demand for cybersecurity professionals, advancements in technology, or heightened awareness of cybersecurity threats.
+  
