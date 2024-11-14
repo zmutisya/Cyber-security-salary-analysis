@@ -48,3 +48,14 @@ Analyzing salary data to determine the average salaries for different cybersecur
 * Lower salaries are generally associated with roles that focus on vulnerability research, threat hunting, and intelligence analysis, suggesting these positions may be more accessible as entry-level roles in cybersecurity.
 * Some roles, such as Threat Intelligence Response Analyst and Staff Security Engineer, appear in both high and low salary lists, which could indicate large salary ranges within these roles depending on experience, seniority, and industry demand.
 * Roles with Engineer titles, such as Software Security Engineer and Staff Security Engineer, tend to command higher salaries even within the bottom 10 list. This indicates that general trend of higher compensation for engineering roles in cybersecurity.
+#### **2.What is the salary distribution by experience level?**
+Analyzing salary salary distribution by experience level within the cybersecurity field can provide businesses with valuable insights into the correlation between years of experience and compensation. This analysis guides decisions regarding career advancement, promotion pathways, and the development of competitive salary structures within the organization.
+![distribution](https://github.com/user-attachments/assets/fcc2a1c9-45ba-4843-9beb-ab49e7dfa507)
+These were the findings
+![dist](https://github.com/user-attachments/assets/b19234ef-9c5f-4232-a6d7-4ff444af071b)
+* The salaries for entry level positions are concentrated in a relatively narrow range, with a median around $100,000. There are some outliers with higher salaries, but the majority fall within this range.
+* The mid level salaries show a wider distribution compared to entry-level. The median is around $200,000, and there are both lower and higher outliers.
+* The executive level salaries have a significant spread. The median is around $400,000, but there are outliers both below and above this range.
+* The senior level salaries also have a wide distribution, with a median around $350,000. There are outliers at both ends.
+
+
