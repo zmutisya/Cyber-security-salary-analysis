@@ -72,5 +72,5 @@ These were the findings
 ![c size](https://github.com/user-attachments/assets/7cbc81bd-271f-4e0e-b149-a3f365f3169d)
 * The medium-sized companies in the cybersecurity industry offer the highest average salaries, reaching approximately $120,000 USD. This could be attributed to factors like a balance between resources and flexibility, potentially higher growth opportunities and a focus on emerging technologies in these companies.
 * The large companies in the cybersecurity industry offer slightly lower average salaries compared to medium-sized companies which is around $115,000 USD. While they might have more resources and established structures, the potential for individual growth and contribution might be comparatively lower in larger organizations.
-*The small companies in the cybersecurity industry offer the lowest average salaries at around $80,000 USD. This could be due to limited resources, smaller budgets, and potentially fewer opportunities for career advancement in smaller organizations.
+* The small companies in the cybersecurity industry offer the lowest average salaries at around $80,000 USD. This could be due to limited resources, smaller budgets, and potentially fewer opportunities for career advancement in smaller organizations.
 
