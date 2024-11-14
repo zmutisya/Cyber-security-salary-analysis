@@ -51,7 +51,7 @@ Analyzing salary data to determine the average salaries for different cybersecur
 #### **2.What is the salary distribution by experience level?**
 Analyzing salary salary distribution by experience level within the cybersecurity field can provide businesses with valuable insights into the correlation between years of experience and compensation. This analysis guides decisions regarding career advancement, promotion pathways, and the development of competitive salary structures within the organization.
 ![distribution](https://github.com/user-attachments/assets/fcc2a1c9-45ba-4843-9beb-ab49e7dfa507)
-These were the findings
+#### These were the findings
 ![dist](https://github.com/user-attachments/assets/b19234ef-9c5f-4232-a6d7-4ff444af071b)
 * The salaries for entry level positions are concentrated in a relatively narrow range, with a median around $100,000. There are some outliers with higher salaries, but the majority fall within this range.
 * The mid level salaries show a wider distribution compared to entry-level. The median is around $200,000, and there are both lower and higher outliers.
@@ -60,7 +60,7 @@ These were the findings
 #### **3.Salary comparison by employment type**
 Conducting salary comparison analysis by employment type can help companies ensure fair and competitive compensation practices. This in return can help in attracting and retaining top talent, allocating budgets effectively, complying with legal requirements, benchmark against industry standards and enhance employee satisfaction.
 ![Comparison](https://github.com/user-attachments/assets/c9d75078-415e-4d7c-a8b3-d59548c73473)
-These were the findings
+#### These were the findings
 ![comparison plot](https://github.com/user-attachments/assets/0d2a603b-4e95-461a-8dee-0bcf9fbe1cf8)
 * Full-time employment positions in cybersecurity have the highest average salary, reaching approximately $120,000 USD. This is likely due to the stability, benefits, and potential for career growth associated with full-time roles.
 * Both contract and freelance positions have lower average salaries compared to full-time employment. This could be due to factors like project-based nature, lack of benefits, and the need for self-management in these roles.
@@ -68,7 +68,7 @@ These were the findings
 #### **4.Salary analysis by company type**
 This analysis will help understand how compensation structures vary across organizations of different scales. The analysis can help the businesses assess if their pay offerings are competitive relative to their size, resources, and market position. It can also inform decisions about attracting and retaining talent, optimizing salary budgets, ensuring equitable compensation practices and aligning with industry standards.
 ![company size](https://github.com/user-attachments/assets/42a9733a-edfc-4008-927b-c5119443c755)
-These were the findings
+#### These were the findings
 ![c size](https://github.com/user-attachments/assets/7cbc81bd-271f-4e0e-b149-a3f365f3169d)
 * The medium-sized companies in the cybersecurity industry offer the highest average salaries, reaching approximately $120,000 USD. This could be attributed to factors like a balance between resources and flexibility, potentially higher growth opportunities and a focus on emerging technologies in these companies.
 * The large companies in the cybersecurity industry offer slightly lower average salaries compared to medium-sized companies which is around $115,000 USD. While they might have more resources and established structures, the potential for individual growth and contribution might be comparatively lower in larger organizations.
@@ -76,11 +76,12 @@ These were the findings
 #### **5.Salary trends over time**
 By analyzing salary data over time will help identify trends and patterns in compensation within the cybersecurity industry. This analysis can help businesses anticipate changes in salary expectations and adjust their recruitment and retention strategies accordingly.
 ![trends](https://github.com/user-attachments/assets/fb3762e0-e7ca-4f79-97c6-7124b81e030d)
-These are the findings
+#### These are the findings
 ![trends overtime](https://github.com/user-attachments/assets/5662d7bc-40e5-4525-a98e-1b37e30add34)
 * There is a clear upward trend in average salaries in the cybersecurity industry from 2020 to 2022. This indicates that salaries have been steadily increasing over this period.
 * The most notable increase in salary occurred between 2021 and 2022. This suggests that there might have been significant factors contributing to this jump, such as increased demand for cybersecurity professionals, advancements in technology, or heightened awareness of cybersecurity threats.
 ## Tableau Dashboard
 You can interact with this report in Tableau dashboard which allows you to customize the data to meet specific needs. You can access the dashboard [here](https://public.tableau.com/views/CYBERSECURITYSALARYANALYSIS/CYBERSECURITYSALARYANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+#### Tableau Dashboard Screenshot
 ![CYBERSECURITY SALARY ANALYSIS](https://github.com/user-attachments/assets/11b5ffd7-66d5-44f4-9532-4ef7cc21029d)
 
