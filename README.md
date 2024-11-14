@@ -57,5 +57,13 @@ These were the findings
 * The mid level salaries show a wider distribution compared to entry-level. The median is around $200,000, and there are both lower and higher outliers.
 * The executive level salaries have a significant spread. The median is around $400,000, but there are outliers both below and above this range.
 * The senior level salaries also have a wide distribution, with a median around $350,000. There are outliers at both ends.
+#### **3.Salary comparison by employment type
+Conducting salary comparison analysis by employment type can help companies ensure fair and competitive compensation practices. This in return can help in attracting and retaining top talent, allocating budgets effectively, complying with legal requirements, benchmark against industry standards and enhance employee satisfaction.
+![Comparison](https://github.com/user-attachments/assets/c9d75078-415e-4d7c-a8b3-d59548c73473)
+These were the findings
+![comparison plot](https://github.com/user-attachments/assets/0d2a603b-4e95-461a-8dee-0bcf9fbe1cf8)
+* Full-time employment positions in cybersecurity have the highest average salary, reaching approximately $120,000 USD. This is likely due to the stability, benefits, and potential for career growth associated with full-time roles.
+* Both contract and freelance positions have lower average salaries compared to full-time employment. This could be due to factors like project-based nature, lack of benefits, and the need for self-management in these roles.
+* Part-time positions in cybersecurity have the lowest average salary, around $50,000 USD. This is likely due to the reduced workload and potential for fewer benefits compared to full time roles.
 
 
