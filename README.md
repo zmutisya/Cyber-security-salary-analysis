@@ -34,11 +34,18 @@ Exploratory Data Analysis was conducted to uncover the dataset patterns, relatio
 ## Data Analysis and Visualization
 #### **1.What is the average salary for different cybersecurity roles?**
 Analyzing salary data to determine the average salaries for different cybersecurity roles. This information provides businesses with a valuable benchmark for their compensation packages. It also helps businesses stay competitive in attracting and retaining top talents in the industry.
+#### Highest paid Cybersecurity role
 ![average](https://github.com/user-attachments/assets/2d807677-0d2c-485e-8d44-5ff4331f1432)
-
-![newplot](https://github.com/user-attachments/assets/573e55e7-274a-484c-810e-ba9b086dfb92)
-
-#### These were the findings from the analysis;
+#### These were the findings from the analysis
+![highest paid](https://github.com/user-attachments/assets/2e188163-273f-4292-ac2c-edd78a76c8d7)
+573e55e7-274a-484c-810e-ba9b086dfb92)
 * The Application Security Architect and Staff Security Engineer positions lead in compensation, indicating high demand for expertise in application security and staff-level engineering.
 * The roles focusing on application security, software security, and compliance management tend to offer competitive salaries, reflecting the high value placed on these specializations within cybersecurity.
 * The roles like IAM Engineer and Head of Information Security, while still well-paid, are on the lower end of this top-tier range, suggesting that these positions may be more common and therefore offer less premium pay than highly specialized roles.
+#### Least paid Cybersecurity role
+![least paid](https://github.com/user-attachments/assets/8fa6d7f9-f391-4e08-9437-ae51c79d7fd0)
+#### These were the findings from the analysis
+![bottom](https://github.com/user-attachments/assets/be57ad9f-4c45-4cc6-be45-bb86dfbc87c5)
+* Lower salaries are generally associated with roles that focus on vulnerability research, threat hunting, and intelligence analysis, suggesting these positions may be more accessible as entry-level roles in cybersecurity.
+* Some roles, such as Threat Intelligence Response Analyst and Staff Security Engineer, appear in both high and low salary lists, which could indicate large salary ranges within these roles depending on experience, seniority, and industry demand.
+* Roles with Engineer titles, such as Software Security Engineer and Staff Security Engineer, tend to command higher salaries even within the bottom 10 list. This indicates that general trend of higher compensation for engineering roles in cybersecurity.
