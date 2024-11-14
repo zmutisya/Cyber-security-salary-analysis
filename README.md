@@ -32,5 +32,5 @@ To access the dataset click [here](https://github.com/zmutisya/Cyber-security-sa
 ## EDA
 Exploratory Data Analysis was conducted to uncover the dataset patterns, relationship, trends and anomalies. 
 ## Data Analysis and Visualization
-#### What is the average salary for different cybersecurity roles?
+#### **What is the average salary for different cybersecurity roles?**
 Analyzing salary data to determine the average salaries for different cybersecurity roles. This information provides businesses with a valuable benchmark for their compensation packages. It also helps businesses stay competitive in attracting and retaining top talents in the industry.
