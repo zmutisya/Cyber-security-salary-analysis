@@ -57,7 +57,7 @@ These were the findings
 * The mid level salaries show a wider distribution compared to entry-level. The median is around $200,000, and there are both lower and higher outliers.
 * The executive level salaries have a significant spread. The median is around $400,000, but there are outliers both below and above this range.
 * The senior level salaries also have a wide distribution, with a median around $350,000. There are outliers at both ends.
-#### **3.Salary comparison by employment type
+#### **3.Salary comparison by employment type**
 Conducting salary comparison analysis by employment type can help companies ensure fair and competitive compensation practices. This in return can help in attracting and retaining top talent, allocating budgets effectively, complying with legal requirements, benchmark against industry standards and enhance employee satisfaction.
 ![Comparison](https://github.com/user-attachments/assets/c9d75078-415e-4d7c-a8b3-d59548c73473)
 These were the findings
@@ -65,5 +65,12 @@ These were the findings
 * Full-time employment positions in cybersecurity have the highest average salary, reaching approximately $120,000 USD. This is likely due to the stability, benefits, and potential for career growth associated with full-time roles.
 * Both contract and freelance positions have lower average salaries compared to full-time employment. This could be due to factors like project-based nature, lack of benefits, and the need for self-management in these roles.
 * Part-time positions in cybersecurity have the lowest average salary, around $50,000 USD. This is likely due to the reduced workload and potential for fewer benefits compared to full time roles.
-
+#### **4.Salary analysis by company type**
+This analysis will help understand how compensation structures vary across organizations of different scales. The analysis can help the businesses assess if their pay offerings are competitive relative to their size, resources, and market position. It can also inform decisions about attracting and retaining talent, optimizing salary budgets, ensuring equitable compensation practices and aligning with industry standards.
+![company size](https://github.com/user-attachments/assets/42a9733a-edfc-4008-927b-c5119443c755)
+These were the findings
+![c size](https://github.com/user-attachments/assets/7cbc81bd-271f-4e0e-b149-a3f365f3169d)
+* The medium-sized companies in the cybersecurity industry offer the highest average salaries, reaching approximately $120,000 USD. This could be attributed to factors like a balance between resources and flexibility, potentially higher growth opportunities and a focus on emerging technologies in these companies.
+* The large companies in the cybersecurity industry offer slightly lower average salaries compared to medium-sized companies which is around $115,000 USD. While they might have more resources and established structures, the potential for individual growth and contribution might be comparatively lower in larger organizations.
+*The small companies in the cybersecurity industry offer the lowest average salaries at around $80,000 USD. This could be due to limited resources, smaller budgets, and potentially fewer opportunities for career advancement in smaller organizations.
 
