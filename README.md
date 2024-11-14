@@ -35,4 +35,8 @@ Exploratory Data Analysis was conducted to uncover the dataset patterns, relatio
 #### **1.What is the average salary for different cybersecurity roles?**
 Analyzing salary data to determine the average salaries for different cybersecurity roles. This information provides businesses with a valuable benchmark for their compensation packages. It also helps businesses stay competitive in attracting and retaining top talents in the industry.
 ![average](https://github.com/user-attachments/assets/2d807677-0d2c-485e-8d44-5ff4331f1432)
-
+These were the findings from the analysis
+The Application Security Architect and Staff Security Engineer positions lead in compensation, indicating high demand for expertise in application security and staff-level engineering.
+The roles focusing on application security, software security, and compliance management tend to offer competitive salaries, reflecting the high value placed on these specializations within cybersecurity.
+The roles like IAM Engineer and Head of Information Security, while still well-paid, are on the lower end of this top-tier range, suggesting that these positions may be more common and therefore offer less premium pay than highly specialized roles.
+![newplot](https://github.com/user-attachments/assets/573e55e7-274a-484c-810e-ba9b086dfb92)
