@@ -29,3 +29,6 @@ To access the dataset click [here](https://github.com/zmutisya/Cyber-security-sa
 3. Salary comparison by employment type: What is the average salary for different employment types (full-time, part-time, contract)? Are there significant salary differences between employment types?
 4. Salary trends over time: How have cybersecurity salaries changed over the years? Are there any noticeable trends or patterns in compensation within the cybersecurity field?
 5. Salary analysis by company size: Is there a correlation between company size and cybersecurity salaries? Do larger companies tend to offer higher salaries in the cybersecurity field?
+## EDA
+Exploratory Data Analysis was conducted to uncover the dataset patterns, relationship, trends and anomalies. 
+## Data Analysis and Visualization
