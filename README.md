@@ -81,5 +81,6 @@ These are the findings
 * There is a clear upward trend in average salaries in the cybersecurity industry from 2020 to 2022. This indicates that salaries have been steadily increasing over this period.
 * The most notable increase in salary occurred between 2021 and 2022. This suggests that there might have been significant factors contributing to this jump, such as increased demand for cybersecurity professionals, advancements in technology, or heightened awareness of cybersecurity threats.
 ## Tableau Dashboard
+You can interact with this report in Tableau dashboard which allows you to customize the data to meet specific needs. You can access the dashboard [here](https://public.tableau.com/views/CYBERSECURITYSALARYANALYSIS/CYBERSECURITYSALARYANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 ![CYBERSECURITY SALARY ANALYSIS](https://github.com/user-attachments/assets/11b5ffd7-66d5-44f4-9532-4ef7cc21029d)
 
