@@ -22,7 +22,7 @@ The dataset has 11 columns and 1247 rows.
 * Remote ratio: The proportion of remote work allowed in the cybersecurity position
 * Company location: The location where the company is located
 * Company size: The size of the employing company i.e small, medium or large
-To access the dataset click [https://github.com/zmutisya/Cyber-security-salary-analysis/blob/master/cybersecurity_salaries.csv](here)
+To access the dataset click [here](https://github.com/zmutisya/Cyber-security-salary-analysis/blob/master/cybersecurity_salaries.csv)
 ## Project Objectives
 1. Find average salary for different cybersecurity roles: What is the average salary for different cybersecurity roles? Which job titles have the highest and lowest average salaries?
 2. Find salary distribution by experience level: How does salary vary across different experience levels? Are there any significant differences in salaries based on experience?
